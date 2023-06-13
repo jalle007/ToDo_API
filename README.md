@@ -1,9 +1,9 @@
 ## ToDo API
 
 ### Sample ASP.NET Core Web API with JWT token and in-memory database
-
-## Usage
 <br />
+Running it and testing :
+<br /><br />
 
 0. git clone https://github.com/jalle007/ToDo_API.git
 1. dotnet run --project ToDo_API
