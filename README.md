@@ -4,7 +4,7 @@
 
 ## Usage
 
-   git clone https://github.com/jalle007/ToDo_API.git
+.. git clone https://github.com/jalle007/ToDo_API.git
 1. dotnet run --project ToDo_API
 2. Import collection into Postman (file ToDo_API.postman_collection.json)
 3. Make a post request to login url (eg. https://localhost:7029/Auth/login?username=admin&password=123456)
